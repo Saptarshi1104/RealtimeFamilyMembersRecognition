@@ -1,0 +1,39 @@
+body{
+font-family: Century Gothic;
+}
+.heading{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 18px gray;
+}
+.heading_div{
+float: none;
+background: white;
+padding: 10px;
+border-radius: 20px;
+color: black;
+box-shadow: 5px 5px 18px gray;
+}
+.heading_div2{
+font-size: 20px;
+}
+.result_para_tag{
+box-shadow: 5px 5px 5px gray;
+font-size: 20px;
+}
+.copyright_footer{
+text-align: center;
+position: fixed;
+bottom: 0;
+line-height: 3;
+color: white;
+width: 100%;
+background-color: gray;
+}
+canvas{
+margin-top: 150px;
+border-radius: 20px;
+border: 5px solid white;
+box-shadow: 5px 5px 5px grey;
+}
